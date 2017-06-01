@@ -1,0 +1,2 @@
+/website/designs/*.sketch filter=lfs diff=lfs merge=lfs -text
+hirer/designs/*.sketch filter=lfs diff=lfs merge=lfs -text
